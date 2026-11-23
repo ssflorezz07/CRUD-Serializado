@@ -1,0 +1,12 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="CRUD - Tema moderno" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="com.ejemplo.crud.Main" />
+    <option name="VM_PARAMETERS" value="-Dswing.systemlaf=com.ejemplo.crud.ModernLookAndFeel" />
+    <option name="PROGRAM_PARAMETERS" value="" />
+    <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+    <module name="CrudRecordSwing" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
